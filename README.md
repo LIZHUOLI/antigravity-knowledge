@@ -7,3 +7,4 @@ playwright mcp 让llm识别截图
 claude code switch
 https://mp.weixin.qq.com/s/L3IAwVxchvFU3YKceoyblg
 https://mp.weixin.qq.com/s/UG0jwwK_iEh7BcXNhabmSA
+https://mp.weixin.qq.com/s/GTXjHBXQqC0R5_uFbFDdgg
